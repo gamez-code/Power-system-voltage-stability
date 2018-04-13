@@ -1,0 +1,13 @@
+Con un tao infinito a 38 ciclos es criticamente estable.
+
+con tao 10 es estable de angulo pero se estabiliza en otro punto 
+
+con tao de 0.1 hay inestabilidad de angulo y de voltaje, con un tiempo ]
+despeje de 20 ciclos que es estable con tao infinito 
+
+con tao de un segundo el sistema es estable tanto en angulo como voltaje 
+
+Importante graficar la g y la p de carga con y sin termostato
+
+motor iduccion
+hacer r de la lineas igual a cero 
